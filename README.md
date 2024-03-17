@@ -1,6 +1,6 @@
 # Learn Gleam Programming Language
 
-Welcome to the Learn Gleam Programming Language repository! This repository is designed to provide resources and examples for those interested in learning Gleam, a statically typed functional programming language for building maintainable and scalable software.
+Welcome to my Learn Gleam Programming Language repository! This repository is designed to provide resources and examples for those interested in learning Gleam, a statically typed functional programming language for building maintainable and scalable software.
 
 ## What is Gleam?
 
